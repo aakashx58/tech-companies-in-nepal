@@ -53,6 +53,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Axios Softwork](https://axiossoftworks.com/) | Banepa, Kavrepalanchowk | Offer commercial organizations cutting-edge intelligent technical solutions and services on web development and mobile app development
 - [Bajra Technologies](https://bajratechnologies.com/) | Tinkune, Kathmandu | We are a technology company that primarily focuses and excels in building software which bring our customer's ideas to life
 - [BatchNepal Consultancy](https://batchnepal.com/) | Bishalnagar, Dhangadhi | Leader in IT services, consulting, outsourcing, and business solutions, leverages technology for business transformation and success
+- [Bhoos Games](https://www.bhoos.com/) | Jwagal, Lalitpur | Recreate conversations, laughter with card games on mobile
 - [Bidhee Pvt. Ltd.](https://www.bidhee.com/) | New Baneshwor, Kathmandu | A company solely established for development and deployment of products with Specialization in development of Mobile/Web applications and Custom Software
 - [Bits Innovation](https://bitsinnovation.com/) | New Baneshwor, Kathmandu | Provides services like Website Design & Development, Search Engine Optimization, Mobile Apps Development and Web Hosting
 - [Black Tech](https://www.blacktech.com.np/) | Zero Kilometer, Pokhara | App Development, Web Development, Branding/Designing, Digital Marketing
@@ -172,7 +173,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Makura Creations](https://makuracreations.com) | Pulchowk Rd, Patan | Web design/development, Software development, Mobile app development, Social media marketing and SEO
 - [Manaram Technology](https://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
 - [Mandala System Pvt. Ltd.](https://mandalasystem.com.np/) | New Baneshwor, Kathmandu | Web design/development, Desktop Application development
-- [Mantra Ideas Pvt. Ltd.](https://mantraideas.com/) | Sankhamul , Kathmandu | IT Company providing services related to web and mobile app development
+- [Mantra Ideas Pvt. Ltd.](https://mantraideas.com/) | Manbhawan, Lalitpur | IT Company providing services related to web and mobile app development
 - [Mantra IT](https://mantrait.com.np/) | Banglamukhi, Lalitpur | Striving to provide professional IT services to companies seeking prosperity and growth in all of their IT aspects, ranging from developing an excellent website to enhancing their overall digital market achievement
 - [Mercantile Communications Pvt. Ltd.](https://www.mos.com.np/) | Durbar Marg, Kathmandu | Provides comprehensive range of excellent value added services for Internet, content designing, development and hosting
 - [Mhuchya Technology](https://mhuchya.com.np/) | Sankhamul, Kathmandu | United for the development of Technology in Nepal, globally
@@ -189,6 +190,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [NITV Streamz Pvt. Ltd.](https://nettv.com.np/) | Ekantakuna, Lalitpur | TV streaming
 - [Numeric Mind](https://numericmind.com) | Bhatbhateni, Kathmandu | Statistical service company that provides insightful statistical solutions and data analytical services to enterprises and research firms seeking to make informed business decisions
 - [Okhati Solutions](https://www.okhati.com.np/) | Bagbazar, Kathmandu | Dedicated to create suitable environment for doctors, patients and other health service providers to work together
+- [Outcode Software](https://outcodesoftware.com/) | Naxal, Kathmandu | Outcode is a product-focused technology services company driven by a vision to create successful products using our expertise in Product, Design, Engineering, Quality and Consulting
 - [Outsource Array](https://outsourcearray.com/) | Thamel, Kathmandu | Design, Development, Maintenance and Support all in one place
 
 ## P - R
@@ -209,6 +211,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [Rigo Technology](https://www.rigonepal.com/) | Lazimpat, Kathmandu | Rigo provides Information Technology Consultancy, System Design and Payroll Outsourcing Service
 - [Rooster Logic Pvt. Ltd.](https://roosterlogic.com/) | Gairidhara, Kathmandu | Data solutions, Web and mobile app development
 - [Rosebay Consulting Pvt. Ltd.](https://rosebayconsult.com/) | Baluwatar, Kathmandu | Blockchain, Product Development, Data Solutions
+- [Rumsan](https://rumsan.com/) | Kupondole, Lalitpur | Revolutionize the potential of blockchain technology, reshaping its role to contribute to a positive and sustainable future
 
 ## S - U
 
